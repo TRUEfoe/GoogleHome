@@ -183,6 +183,8 @@
 * Jokes:  
   * "Tell me a joke"  
   * "Tell me another one"
+* Podcast: 
+  * "Listen to [podcast name]"
 
 # Smart Home
 ## Integrated platforms
